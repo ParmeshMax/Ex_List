@@ -1,0 +1,3 @@
+Slice in List
+Syntax:-
+abc=List[start:stop:step]
